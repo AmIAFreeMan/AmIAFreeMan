@@ -2,7 +2,9 @@
 <br>
 I am a software developer with a strong passion for systems engineering, distributed architectures, and modern software design. Currently in my final year studying Mechanics and Energy at IIS Leopoldo Nobili, my drive to understand how complex systems function "under the hood" has propelled me to independently build deep expertise in software development.
 <br>
+<br>
 I started coding at 16 and created this GitHub account at 17. Over the years, I’ve continuously iterated, built, and refined projects—many of which remain in private repositories. Please note that this GitHub account is strictly dedicated to personal usage, independent research, and study, rather than commercial or professional work.
+<br>
 <br>
 Thank you for visiting, and I hope you enjoy exploring my work!
 <br>
